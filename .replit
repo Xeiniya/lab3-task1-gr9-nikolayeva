@@ -1,6 +1,6 @@
 
 language = "c"
-run = "gcc -o labrabota3-1 src/main.c"
+run = "gcc -o labrabota3-1 src/main.c && ./labrabota3-1"
 modules = ["c-clang14"]
 
 [nix]
